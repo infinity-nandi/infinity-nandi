@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nandor Virag
 
-- 👀 I’m interested in Full-Stack Web Development and sysadmin roles
+- 👀 Interested in Full-Stack Web Development and sysadmin roles
 
-- 🌱 I'm starting software engineering uni
+- 🌱 Starting software engineering uni
 
 - 🌱 Learning sysadmin
 
