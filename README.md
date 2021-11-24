@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Nandor Virag
 
-- 👀 Interested in Full-Stack Web Development and sysadmin roles
+- 👀 Interested in Full-Stack Web Development and Software Development
 
 - 🌱 Starting software engineering uni
 
-- 🌱 Learning sysadmin
 
 <!---
 infinity-nandi/infinity-nandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
